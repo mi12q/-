@@ -44,7 +44,7 @@ for i in range(steps_of_time_number):
             disty = (c-d)**2
             dist = math.sqrt(distx + disty)
 
-            if dist < 20:
+            if dist < 10:
                 pool[j].right(180)
                 pool[j].forward(5)
                 pool[j+1].right(180)
