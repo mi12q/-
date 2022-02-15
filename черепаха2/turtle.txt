@@ -1,0 +1,9 @@
+d,d,r,u,u,l,r
+pu,d,pd,d1,d,d,u,u
+r,d2,r,d2,d1,l,d1
+d,r,d,u,u
+d,r,d,l,r,u,l,u,r
+pu,r,pd,d2,d,r,u,l,d'
+r,d2,d,u,d1
+d,d,r,u,l,r,u,l,r
+d,r,d2,d1,u,l,r
